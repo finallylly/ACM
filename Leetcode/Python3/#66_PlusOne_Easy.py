@@ -1,4 +1,4 @@
-```
+'''
 66. Plus One
 Easy
 
@@ -17,7 +17,7 @@ Output: [4,3,2,2]
 Explanation: The array represents the integer 4321.
 
 link: https://leetcode.com/problems/find-all-duplicates-in-an-array/
-```
+'''
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
 
