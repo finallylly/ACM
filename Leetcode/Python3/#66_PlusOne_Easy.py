@@ -16,7 +16,7 @@ Input: [4,3,2,1]
 Output: [4,3,2,2]
 Explanation: The array represents the integer 4321.
 
-link: https://leetcode.com/problems/find-all-duplicates-in-an-array/
+link: https://leetcode.com/problems/plus-one/
 '''
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
